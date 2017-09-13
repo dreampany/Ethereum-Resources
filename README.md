@@ -7,7 +7,9 @@ A repo containing several links to different blog posts and tutorials to make DA
 ### Frameworks
 #### Truffle
 [What Is Truffle](http://truffleframework.com)
+
 [Truffle Pet Shop Tutorial](http://truffleframework.com/tutorials/pet-shop)
+
 [Developing DApps with MetaMask](https://www.youtube.com/watch?v=fflYJh8Rtxc)
 
 #### Embark
@@ -29,7 +31,9 @@ A repo containing several links to different blog posts and tutorials to make DA
 
 #### testrpc
 [What is an RPC?](https://en.wikipedia.org/wiki/Remote_procedure_call)
+
 [What is a JSON-RPC?](https://en.wikipedia.org/wiki/JSON-RPC)
+
 [testrpc GitHub Repo](https://github.com/ethereumjs/testrpc)
 
 #### EtherScan.io
