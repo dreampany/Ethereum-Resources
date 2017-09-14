@@ -44,7 +44,7 @@ Pull requests welcome! 😊
 
 [Etherscan Rinkeby TestNet](https://ropsten.etherscan.io)
 
-[Faucet] (https://faucet.rinkeby.io)
+[Faucet](https://faucet.rinkeby.io)
 
 [Getting on Rinkeby in 10 minutes](https://gist.github.com/cryptogoth/10a98e8078cfd69f7ca892ddbdcf26bc)
 
@@ -70,7 +70,7 @@ Pull requests welcome! 😊
 #### Remix IDE
 [Remix](https://remix.ethereum.org/#version=soljson-v0.4.16+commit.d7661dd9.js)
 
-[Remix Tutorial] (https://www.youtube.com/watch?v=7I4E78_-B4M)
+[Remix Tutorial](https://www.youtube.com/watch?v=7I4E78_-B4M)
 
 #### EtherScan.io
 [Explorer](https://etherscan.io)
@@ -84,7 +84,7 @@ Pull requests welcome! 😊
 
 [Validity Labs - Simple ETH Vote](https://github.com/validitylabs/SimpleEthVote)
 
-[Validity Labs - Decentralized Gambling] (https://github.com/validitylabs/dgame)
+[Validity Labs - Decentralized Gambling](https://github.com/validitylabs/dgame)
 
 ### Standards
 [ERC20 Tokens](https://theethereum.wiki/w/index.php/ERC20_Token_Standard)
