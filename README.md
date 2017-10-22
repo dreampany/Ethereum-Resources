@@ -108,8 +108,7 @@ Pull requests welcome! 😊
 
 [Oraclize](http://www.oraclize.it)
 
-#### IPFS
-Decentralized storage
+#### IPFS: Decentralized storage
 
 [IPFS](https://ipfs.io/)
 
