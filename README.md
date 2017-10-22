@@ -1,6 +1,6 @@
 # Ethereum Developer Resources
 
-A repo containing several links to different blog posts and tutorials to make DApp development a breeze 💨
+A repo containing several links to different blog posts and tutorials to make DApp development easier.
 
 Pull requests welcome! 😊
 
@@ -49,8 +49,14 @@ Pull requests welcome! 😊
 [Getting on Rinkeby in 10 minutes](https://gist.github.com/cryptogoth/10a98e8078cfd69f7ca892ddbdcf26bc)
 
 ### Tools
+#### Mist Browser
+[Browser](https://github.com/ethereum/mist)
+
+[Setting Up Dev Net In 2 Minutes](https://gist.github.com/evertonfraga/9d65a9f3ea399ac138b3e40641accf23)
+
 #### Metamask
 [What Is MetaMask?](https://www.youtube.com/watch?v=6Gf_kRE4MJU)
+
 [FAQ](https://github.com/MetaMask/faq)
 
 #### testrpc
@@ -74,6 +80,9 @@ Pull requests welcome! 😊
 
 #### EtherScan.io
 [Explorer](https://etherscan.io)
+
+#### Ethplorer.io
+[Token Explorer](https://ethplorer.io/)
 
 #### Oracles
 [Oraclize](http://www.oraclize.it)
