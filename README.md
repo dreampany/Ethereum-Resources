@@ -50,22 +50,21 @@ Pull requests welcome! 😊
 
 ### Tools
 
-#### Mist Browser
-Web3 Enabled Browser
+#### Mist Browser: Web3 Enabled Browser
 
 [Browser](https://github.com/ethereum/mist)
 
 [Setting Up Dev Net In 2 Minutes](https://gist.github.com/evertonfraga/9d65a9f3ea399ac138b3e40641accf23)
 
-#### Metamask
-Web3 Chrome Extension
+#### Metamask: Web3 Chrome Extension
 
 [What Is MetaMask?](https://www.youtube.com/watch?v=6Gf_kRE4MJU)
 
 [FAQ](https://github.com/MetaMask/faq)
 
-#### testrpc
-Local NodeJS Ethereum Client
+[Brave Browser Integration](https://medium.com/metamask/building-metamask-into-brave-838d616dd93f)
+
+#### testrpc: Local NodeJS Ethereum Client
 
 [What is an RPC?](https://en.wikipedia.org/wiki/Remote_procedure_call)
 
@@ -73,15 +72,13 @@ Local NodeJS Ethereum Client
 
 [testrpc GitHub Repo](https://github.com/ethereumjs/testrpc)
 
-#### Toshi
-Platform for building ethereum enabled bots
+#### Toshi: Platform for building ethereum enabled bots
 
 [What is Toshi?](http://www.toshi.org/about/)
 
 [Building a Bot with Toshi](https://developers.toshi.org/docs)
 
-#### Web3 JS
-JavaScript Library for interacting with Ethereum
+#### Web3 JS: JavaScript Library for interacting with Ethereum
 
 [Web3.js](https://github.com/ethereum/web3.js/)
 
@@ -89,30 +86,25 @@ JavaScript Library for interacting with Ethereum
 
 [Web3 Big Numbers and Callbacks](https://ethereumbuilders.gitbooks.io/guide/content/en/ethereum_javascript_api.html)
 
-#### Remix IDE
-Online Solidity IDE and real time compiler
+#### Remix IDE: Online Solidity IDE and real time compiler
 
 [Remix](https://remix.ethereum.org/#version=soljson-v0.4.16+commit.d7661dd9.js)
 
 [Remix Tutorial](https://www.youtube.com/watch?v=7I4E78_-B4M)
 
-#### EtherScan.io
-Ethereum Blockchain explorer
+#### EtherScan.io: Ethereum Blockchain explorer
 
 [Explorer](https://etherscan.io)
 
-#### Ethplorer.io
-Ethereum Blockchain explorer
+#### Ethplorer.io: Ethereum Blockchain explorer
 
 [Token Explorer](https://ethplorer.io/)
 
-#### Rufflet
-Smart Contract transaction visualization 
+#### Rufflet: Smart Contract transaction visualization 
 
 [Rufflet](http://rufflet.cryptokitties.co/)
 
-#### Oracles
-Data carries for external Web APIs
+#### Oracles: Data carries for external Web APIs
 
 [Oraclize](http://www.oraclize.it)
 
